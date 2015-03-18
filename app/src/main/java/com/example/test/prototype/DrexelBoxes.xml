@@ -1,0 +1,844 @@
+<!--?xml version='1.0' encoding='UTF-8'?-->
+<Folder>
+    <name>Untitled layer</name>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #1</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Buckley Field]]></description>
+        <Point>
+            <coordinates>-75.188472,39.957211,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #3</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Law School Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.190079,39.955621,45.4</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #4</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Rush Building-Main Entrance]]></description>
+        <Point>
+            <coordinates>-75.189534,39.956826,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #5</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Rush Building-Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.189518,39.956966,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #6</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[100 N. 32nd Street - 3201 Arch Street]]></description>
+        <Point>
+            <coordinates>-75.18786,39.957953,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #7</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Spangler Walk and Myer's Hall]]></description>
+        <Point>
+            <coordinates>-75.189905,39.95903,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #8</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[34th and Powelton]]></description>
+        <Point>
+            <coordinates>-75.190959,39.960091,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #10</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[R-Lot between New Towers and Calhoun]]></description>
+        <Point>
+            <coordinates>-75.190205,39.957814000000006,40.9</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #13</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[3100 Blk of Chestnut Street - Curtis Hall]]></description>
+        <Point>
+            <coordinates>-75.185993,39.95372,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #11</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[34th and Lancaster Streets]]></description>
+        <Point>
+            <coordinates>-75.19161,39.956974,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #16</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[3100 Blk of Market St. - Lebow Building]]></description>
+        <Point>
+            <coordinates>-75.18554,39.955009,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #17</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[F-Lot 31st and Ludlow Street]]></description>
+        <Point>
+            <coordinates>-75.185344,39.954217,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #18</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Korman Center Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.18852,39.954752,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #20</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[C-Lot Korman Rear]]></description>
+        <Point>
+            <coordinates>-75.189102,39.954733,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #22</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[33rd and Lancaster Walk]]></description>
+        <Point>
+            <coordinates>-75.189614,39.956851,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #23</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[H-Lot Rear of ELC]]></description>
+        <Point>
+            <coordinates>-75.188981,39.959754,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #24</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[2200 Block of N. 33rd Street]]></description>
+        <Point>
+            <coordinates>-75.18926,39.959579,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #25</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[D-Lot 200 Blk of N. 35th Street]]></description>
+        <Point>
+            <coordinates>-75.192127,39.959236,39.6</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #26</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[32nd and Lancaster Walk-Armory]]></description>
+        <Point>
+            <coordinates>-75.18826,39.955983,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #28</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[North Hall-3200 Block of Race]]></description>
+        <Point>
+            <coordinates>-75.188644,39.958765,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #29</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[North Hall-3200 Block of Cherry]]></description>
+        <Point>
+            <coordinates>-75.188158,39.958278,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #30</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[North Hall - Main Entrance]]></description>
+        <Point>
+            <coordinates>-75.188512,39.958539,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #31</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[North Hall-Loading Dock]]></description>
+        <Point>
+            <coordinates>-75.188295,39.95855100000001,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #32</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Nesbitt Hall-Main Entrance]]></description>
+        <Point>
+            <coordinates>-75.188963,39.955827,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #33</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Academic Building-Main Entrance]]></description>
+        <Point>
+            <coordinates>-75.188963,39.957862,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #34</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Hess Lab Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.191336,39.957262,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #35</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Stratton Hall 32nd Street Entrance]]></description>
+        <Point>
+            <coordinates>-75.187737,39.954281,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #36</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Creese Student Center - Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.188716,39.95352,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #37</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[MacAlister Hall Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.189118,39.953588,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #38</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Library Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.189684,39.95535,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #39</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Library Loading Dock]]></description>
+        <Point>
+            <coordinates>-75.19021,39.954986,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #40</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[GSB Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.191014,39.955622,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #41</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Matheson Hall-32nd Street Entrance]]></description>
+        <Point>
+            <coordinates>-75.188419,39.955548,38.8</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #42</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Parking S Lot-North Side]]></description>
+        <Point>
+            <coordinates>-75.18748400000001,39.957194,32.5</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #43</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Parking S Lot-South Side]]></description>
+        <Point>
+            <coordinates>-75.187664,39.956497,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #44</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Caneris Hall-Main Entrance]]></description>
+        <Point>
+            <coordinates>-75.187892,39.956639,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #45</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Caneris Hall-Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.18770500000001,39.95661,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #58</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[DAC-North Entrance]]></description>
+        <Point>
+            <coordinates>-75.190515,39.956749,29.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #59</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[DAC-Employee Entrance]]></description>
+        <Point>
+            <coordinates>-75.190982,39.956604,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #60</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[3201 Arch Street Studio Entrance]]></description>
+        <Point>
+            <coordinates>-75.188134,39.95802900000001,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #61</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Baida Center-Main Entrance]]></description>
+        <Point>
+            <coordinates>-75.188635,39.957636,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #62</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Baida Center-Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.188509,39.957869,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #63</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Nesbitt Hall-Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.188853,39.955951000000006,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #68</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[GSB Garage Entrance]]></description>
+        <Point>
+            <coordinates>-75.191428,39.955137,26.1</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #69</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Disque Hall Side Quad Entrance]]></description>
+        <Point>
+            <coordinates>-75.187798,39.954287,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #70</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Disque Hall-32nd Street Park Entrance]]></description>
+        <Point>
+            <coordinates>-75.187383,39.954676,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #72</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Buckley Field South In Gate]]></description>
+        <Point>
+            <coordinates>-75.189029,39.956948,25.2</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #73</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Buckley Field South Out Gate]]></description>
+        <Point>
+            <coordinates>-75.189083,39.956977,25.4</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #74</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Creese Loading Dock]]></description>
+        <Point>
+            <coordinates>-75.188281,39.95330800000001,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #75</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Ross Commons Rear Patio Entrance]]></description>
+        <Point>
+            <coordinates>-75.19055,39.959859,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #76</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Buckley Field North In Gate]]></description>
+        <Point>
+            <coordinates>-75.188912,39.95748,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #77</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Buckley Field North In Gate]]></description>
+        <Point>
+            <coordinates>-75.18896000000001,39.957466,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #78</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[PSA Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.188984,39.959974,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #79</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[University Crossings-JFK Entrance]]></description>
+        <Point>
+            <coordinates>-75.187139,39.956113,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #80</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[University Crossings-North Entrance]]></description>
+        <Point>
+            <coordinates>-75.187536,39.956415,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #81</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[University Crossings-32nd Street Entrance]]></description>
+        <Point>
+            <coordinates>-75.188064,39.956146,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #82</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[33rd and Powelton]]></description>
+        <Point>
+            <coordinates>-75.189496,39.960265,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #84</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[32nd and Powelton]]></description>
+        <Point>
+            <coordinates>-75.187619,39.960541,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #85</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Nesbitt Hall-33rd Street Shuttle Stop]]></description>
+        <Point>
+            <coordinates>-75.189357,39.955959,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #86</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Bossone Building-West Vestibule Doors]]></description>
+        <Point>
+            <coordinates>-75.186799,39.954827,66.4</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #87</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Bossone Building-Courtyard Doors]]></description>
+        <Point>
+            <coordinates>-75.186138,39.954729,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #88</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Bossone Building-3rd Floor Patio]]></description>
+        <Point>
+            <coordinates>-75.18676,39.955121,45.7</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #89</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Bossone Building-Ludlow Street]]></description>
+        <Point>
+            <coordinates>-75.186991,39.954493,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #90</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[31st and Baring]]></description>
+        <Point>
+            <coordinates>-75.18717900000001,39.961907,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #91</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Natrona and Powelton Ave]]></description>
+        <Point>
+            <coordinates>-75.18884,39.960364,39.1</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #92</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[35th and Powelton Ave]]></description>
+        <Point>
+            <coordinates>-75.192503,39.959997,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #93</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[36th and Powelton Ave]]></description>
+        <Point>
+            <coordinates>-75.193868,39.959906,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #95</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Hess Lab Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.192187,39.95703,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #97</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[3201 Rear Entrance]]></description>
+        <Point>
+            <coordinates>-75.188099,39.957947000000004,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #98</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[3201 Front Entrance]]></description>
+        <Point>
+            <coordinates>-75.187919,39.957858,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #100</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Race Street Dorm]]></description>
+        <Point>
+            <coordinates>-75.189931,39.958455,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #101</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[33rd and Race Streets]]></description>
+        <Point>
+            <coordinates>-75.189276,39.958782,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #108</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[Library-Taco Bell 24 Hour Space Entrance]]></description>
+        <Point>
+            <coordinates>-75.189735,39.955071,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #109</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[34th and Race Streets Dining Terrace]]></description>
+        <Point>
+            <coordinates>-75.190811,39.958784,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #110</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[34th and Market Streets]]></description>
+        <Point>
+            <coordinates>-75.191256,39.955931,16.5</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #111</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[3300 Block of Market Street]]></description>
+        <Point>
+            <coordinates>-75.190356,39.955798,35.4</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #112</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[33rd and Market Streets]]></description>
+        <Point>
+            <coordinates>-75.189654,39.955721,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #113</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[33rd and Chestnut Streets]]></description>
+        <Point>
+            <coordinates>-75.189695,39.954092,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #114</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[31st and Spring Garden Streets]]></description>
+        <Point>
+            <coordinates>-75.18748200000002,39.963298,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #115</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[34th and Spring Garden Streets]]></description>
+        <Point>
+            <coordinates>-75.191323,39.962895,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #116</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[36th and Spring Garden Streets]]></description>
+        <Point>
+            <coordinates>-75.194335,39.96256,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #118</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[36th and Filbert Streets]]></description>
+        <Point>
+            <coordinates>-75.19408,39.957005,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #117</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[36th and Baring Streets]]></description>
+        <Point>
+            <coordinates>-75.194099,39.961154,0.0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <styleUrl>#icon-ci-1</styleUrl>
+        <name>CB #119</name>
+        <ExtendedData>
+        </ExtendedData>
+        <description><![CDATA[36th and Race Streets]]></description>
+        <Point>
+            <coordinates>-75.193697,39.958691,0.0</coordinates>
+        </Point>
+    </Placemark>
+</Folder>

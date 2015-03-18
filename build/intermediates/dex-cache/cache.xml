@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\pre-dexed\debug\classes-86b7723e70b3d61b9531d285a2d9c97510ea5389.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\pre-dexed\debug\classes-d24a4f18eff60d1c001fb3fd181354a2488c79da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c129d7fd84b30fd23a6ecc045c10d501bfc4ca8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\pre-dexed\debug\classes-559ca809d2d63142bf66c425782b12a93e14212c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e6fa53cd787ec45abeabfe592fa95536f1070ba6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Jeff\Documents\cs280-winter2015-dangerzone\Prototype\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-31cd7f8c4408b29f7859bc093c45a035b33c4fb0.jar" />
+    </item>
+
+</items>
